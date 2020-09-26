@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Free and Open Source projects like termux, joplin, lbry, wekan, syncthing, lichess**
 
-- 💬 Ask me about **linux, mate-desktop, mate beverage,**
+- 💬 Ask me about **linux, mate-desktop, mate beverage**
 
 - 📫 How to reach me **https://t.me/rodoviario**
 
