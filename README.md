@@ -17,6 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+
+- [Aprendiendo React](https://rodoviario.github.io/aprendiendo-react/)
+- [Using publii for blogging](https://rodoviario.github.io/using-publii-for-bloggin/)
 - [The best time for coding](https://rodoviario.github.io/the-best-time-for-coding/)
 - [Setting up the new GH Readme/Profile page](https://rodoviario.github.io/setting-up-the-new-gh-readmeprofile-page/)
 - [Testing, one, two, three](https://rodoviario.github.io/testing-one-two-three/)
