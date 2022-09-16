@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **linux, mate-desktop, mate beverage**
 
-- 📫 How to reach me **https://t.me/rodoviario** but you have to go beyond a plain 'hello' upfront so I don't mistakenly block you as spam/bot, also you can reachme in rodoviario at duck.com leaving enough info for me to respond
+- 📫 How to reach me in rodoviario at duck.com leaving enough info for me to respond
 
 - ⚡ Fun fact **Mate over any herbal veberage**
 
