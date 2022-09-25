@@ -18,6 +18,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 
+- [Aprendiendo Lua y Löve2d](https://rodoviario.github.io/lua-loeve-excelente-curso-en-freecodecamp/)
 - [Aprendiendo React](https://rodoviario.github.io/aprendiendo-react/)
 - [Using publii for blogging](https://rodoviario.github.io/using-publii-for-bloggin/)
 - [The best time for coding](https://rodoviario.github.io/the-best-time-for-coding/)
