@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodoviario" alt="rodoviario" /> </p>
 
-- 🔭 I’m currently working on **A great startup**
+- 🔭 I’m currently collaborating on **A great startup**
 
-- 🌱 I’m currently learning **Cypress**
+- 🌱 I’m currently learning **Cypress**, **Lua/Love**
 
 - 👯 I’m looking to collaborate on **Free and Open Source projects like termux, joplin, lbry, wekan, syncthing, lichess**
 
